@@ -248,3 +248,27 @@ body {
 .team-plan ul li::marker {
   color: #2563eb;
 }
+
+/* footer-section */
+
+footer{
+  background: #0d1b2a;
+  padding: 40px;
+}
+.footer-parent{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+}
+.footer-parent .social-links a{
+  font-size: 30px;
+  color: white;
+  margin-left: 10px;
+}
+footer .copyright{
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+
