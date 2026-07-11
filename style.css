@@ -80,11 +80,16 @@ body {
   display: flex;
   justify-content: center;
   list-style-type: none;
-  gap: 15px;
+  gap: 20px;
 }
 .menu li a {
   color: #575757;
   font-size: 20px;
+  padding: 10px 15px;
+}
+.menu li:hover a{
+  background: #2563eb;
+  color: white;
 }
 .nav-button {
   display: flex;
@@ -312,6 +317,10 @@ footer{
   font-size: 30px;
   color: white;
   margin-left: 10px;
+  transition: 0.4s;
+}
+.footer-parent .social-links a:hover{
+  color: #2563eb;
 }
 footer .copyright{
   color: white;
