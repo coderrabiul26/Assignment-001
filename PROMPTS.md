@@ -6,3 +6,6 @@ It’s great, I got the HTML but I think it will be more gorgeous if we add anot
 
 ## Prompts-3:
 Add some hover effect with the photo card like transform translate to highlight the cards
+
+## ******My drive video link expired. Thats why I am attaching my video link here once again******
+drive video link: https://docs.google.com/videos/d/1HfjOKdKUDOYJQw3NF-PkfIVTWOua87OuYuqHNZ77EuI/edit?usp=drive_link
